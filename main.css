@@ -1,0 +1,62 @@
+.topLine {
+    background-color: white;
+    height: 3em;
+    margin-top: 1em;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    margin-left: 45em;
+    display: inline;
+}
+
+body {
+    background-color: cornflowerblue;
+
+    text-align: center;
+}
+
+.form {
+    background-color: white;
+    margin-left: 30em;
+    margin-right: 30em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    padding-left: 4em;
+    padding-right: 4em; 
+} 
+
+.inputBoxes{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h1 {
+    padding-right: 2em;
+}
+
+
+.bottomButton {
+    background-color: blue;
+    color: white;
+    width: 23%;
+}
+
+a {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+    
+#amazonIcon{
+    border: 5px solid red;
+}
+
+.assets{
+    size: 1px;
+}
